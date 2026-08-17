@@ -1,0 +1,6 @@
+streamlit
+ollama
+SpeechRecognition
+pydub
+deep-translator
+streamlit-mic-recorder
