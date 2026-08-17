@@ -1,0 +1,48 @@
+{
+  "xp": 40,
+  "saved_words": [],
+  "history": [
+    {
+      "date": "2026-08-17 22:32",
+      "language": "English",
+      "situation": "Daily Conversation",
+      "difficulty": "Voice Practice",
+      "messages": [
+        {
+          "role": "user",
+          "content": "hello I am Akila I am learning English"
+        },
+        {
+          "role": "assistant",
+          "content": "Hi Akila, nice to meet you! My name is [Your Name]. How are you today?"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17 22:46",
+      "language": "English",
+      "situation": "Daily Conversation",
+      "difficulty": "Beginner",
+      "mode": "Normal Conversation",
+      "messages": [
+        {
+          "role": "assistant",
+          "content": "Hi there! How's your day going so far?"
+        },
+        {
+          "role": "user",
+          "content": "i am good.what about you?"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm doing well, thank you for asking! I've been helping people with their languages all morning. What brings you here today?"
+        }
+      ]
+    }
+  ],
+  "voice_history": [],
+  "pronunciation_history": [],
+  "scores": [],
+  "completed_challenges": [],
+  "analysis": null
+}
